@@ -1,0 +1,17 @@
+{
+  "name": "smartui-selenium-js-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx smartui exec node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lambdatest/selenium-driver": "^1.0.0",
+    "@lambdatest/smartui-cli": "^2.0.2",
+    "selenium-webdriver": "^4.15.0"
+  }
+}

@@ -1,0 +1,1 @@
+Install with `npm i` and run test with `npm run test`
